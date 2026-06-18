@@ -337,7 +337,7 @@ sentiment_analysis/
 # 👨‍💻 CREATOR
 
 ```bash
-Developer : Akash Biswas
+Developer : Akash Sarkar
 
 Domain    : AI | ML | NLP
 
